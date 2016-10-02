@@ -1,4 +1,12 @@
 /* Module 3 */
-#header-nav {
-	background-color: red;
+.row {
+	background-color: #eaeaea;
+}
+#navbar li {
+	text-align: center;
+}
+@media (max-width: 767px ){
+	.row {
+		margin: 25px;
+	}
 }
